@@ -1,4 +1,3 @@
-import Image from "next/image";
 import AuthButton from "./components/ui/authButton";
 
 export default function Home() {
